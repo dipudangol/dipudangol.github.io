@@ -120,7 +120,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
     letter-spacing: 3px;
     font-weight: 900;
 }
-.video iframe{
+.video iframe{ 
 width: 100%;
     min-height: 15em;
     border: 1px solid #b3b3b3;
