@@ -8,6 +8,7 @@ body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
 	background: #fff;
+    
 }
 body a{
 	transition: 0.5s all;
@@ -95,7 +96,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- //top-nav --*/
 /*-- banner --*/  
 .video {
-	background:url(../images/cv.jpg)no-repeat;
+	background:url(../images/g3.jpg)no-repeat;
     background-position:0px 0px;
 	text-align: left;
 	min-height: 100%;
