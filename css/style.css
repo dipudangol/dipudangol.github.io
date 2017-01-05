@@ -51,7 +51,7 @@ ul.nav.navbar li a {
     font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
-	color:#ec407a;
+	color:#4b494a;
 	background:transparent;
 	outline:none;
 } 
@@ -179,7 +179,7 @@ h4.modal-title {
     color: #fff;
 }
 .about h3 span {
-    color: #f3286c;
+    color: #1ab4de;
 }
 .about h4 {
     font-size: 1.2em;
@@ -260,8 +260,8 @@ p {
 	-ms-border-radius: 0;
     border-radius: 0;
 }
-.progress-bar { 
-    background-color: #b3315d;
+.progress-bar {
+    background-color: #534ab4;
 }
 .bar-grids h6 {
     font-size: 1em;
@@ -285,21 +285,21 @@ p {
 .experience-left {
     float: left;
     width: 30%;
-    background: #ec407a;
+    background: #4046ec;
     text-align: center;
     padding: 2em 0;
-    border: 2px solid #ec407a;
-	-webkit-transition: .5s all;
-	-moz-transition: .5s all;
-	transition: .5s all;
-	-o-transition: .5s all;
-	-ms-transition: .5s all;
-} 
+    border: 2px solid #0ecdb8;
+    -webkit-transition: .5s all;
+    -moz-transition: .5s all;
+    transition: .5s all;
+    -o-transition: .5s all;
+    -ms-transition: .5s all;
+}
 .experience-right {
     float: right;
     width: 70%;
-    border: 1px solid #ec407a;
-	padding: 1.5em;
+    border: 1px solid #259b2d;
+    padding: 1.5em;
 }
 .experience-left h3 {
     font-size: 1.8em;
