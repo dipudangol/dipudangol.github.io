@@ -355,7 +355,7 @@ p {
 	width: 100%;
 }
 .gallery-w3ls-hover .view-caption {
-	background-color: rgba(236, 64, 122, 0.85);
+	background-color:#4091ec;
 	border: 5px solid #fff;
 	bottom: 0;
 	color: #fff;
@@ -441,7 +441,7 @@ p {
 	display: block;
 	width: 0;
 	height:2px;
-	background:#ec407a;
+	background:#7440ec;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -454,7 +454,7 @@ p {
 }
 .styled-input input:focus ~ label, .styled-input input:valid ~ label,.styled-input textarea:focus ~ label ,.styled-input textarea:valid ~ label{
     font-size: 1.1em;
-    color: #ec407a;
+    color: #7440ec;
     top: -1.3em;
     -webkit-transition: all 0.125s;
 	-moz-transition: all 0.125s; 
@@ -479,8 +479,8 @@ p {
     font-size: 1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #ec407a;
-    border: solid 1px #ec407a; 
+    background: #7440ec;
+    border: solid 1px #7440ec; 
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
 	-o-border-radius: 3px;
@@ -646,7 +646,7 @@ p.agile-br {
     border: none;
     box-shadow: none;
     position: absolute;
-    background: #ec407a;
+    background: #6640ec;
     width: 100%;
     z-index: 9;
 }
